@@ -75,7 +75,7 @@ class AtmMachine{
 
 
 
-public class Atm {
+ class Atm {
     public static void main(String[] args) {
 
         AtmMachine  obj = new AtmMachine();
